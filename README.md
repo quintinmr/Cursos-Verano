@@ -19,14 +19,23 @@
 ### Contenido y conocimientos aportados
 
 ● Sesión 1: Introducción al curso. Ciencia de Datos y Deep Learning
+
 ● Sesión 2: Redes Neuronales prácticas con Pytorch(I)
+
 ● Sesión 3: Redes Neuronales prácticas con Pytorch(II)
+
 ● Sesión 4: Aprendizaje no supervisado
+
 ● Sesión 5: Sistemas de Recomendación
-● Sesión 6: Detección de objetos y automachine learning: aplicaciones industriales.
+
+● Sesión 6: Detección de objetos y automachine learning: aplicaciones industriales
+
 ● Sesión 7: Redes Generativas GAN
+
 ● Sesión 8: Aprendizaje por refuerzo
+
 ● Sesión 9: Interpretabilidad y ética en el aprendizaje profundo
+
 ● Sesión 10: Mesa Redonda: Inteligencia artificial en salud. Aplicaciones e implicaciones éticas.
 
 

@@ -30,8 +30,6 @@
 
 ● **Sesión 6**: Detección de objetos y automachine learning: aplicaciones industriales
 
-                https://universe.roboflow.com/augmented-startups/playing-cards-ow27d/dataset/3  (enlace útil)
-
 ● **Sesión 7**: Redes Generativas GAN
 
 ● **Sesión 8**: Aprendizaje por refuerzo
@@ -41,8 +39,10 @@
 ● **Sesión 10**: Mesa Redonda: Inteligencia artificial en salud. Aplicaciones e implicaciones éticas.
 
 
-### <span style="color:green">Experiencia Personal</span>
+<span style="color:green">### Experiencia Personal</span>
 
 ...
+
+
 
 

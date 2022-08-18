@@ -39,7 +39,7 @@
 ● **Sesión 10**: Mesa Redonda: Inteligencia artificial en salud. Aplicaciones e implicaciones éticas.
 
 ### URL de páginas útiles e interesantes para la práctica de Detección de objetos y automachine learning
-1.https://roboflow.com/
+1. https://roboflow.com/
 
 2. https://huggingface.co/spaces/dalle-mini/dalle-mini
 

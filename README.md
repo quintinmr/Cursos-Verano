@@ -29,6 +29,7 @@
 ● **Sesión 5**: Sistemas de Recomendación
 
 ● **Sesión 6**: Detección de objetos y automachine learning: aplicaciones industriales
+                https://universe.roboflow.com/augmented-startups/playing-cards-ow27d/dataset/3  (enlace útil)
 
 ● **Sesión 7**: Redes Generativas GAN
 

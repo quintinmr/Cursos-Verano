@@ -1,6 +1,7 @@
 # Cursos de Verano
 
-## ![1. Introducción Práctica a la Inteligencia Artificial y al Deep Learning](https://i.pinimg.com/originals/0b/09/c6/0b09c6085a316ef479dcb744b2f396cc.jpg)
+##1. Introducción Práctica a la Inteligencia Artificial y al Deep Learning 
+![AI](https://i.pinimg.com/originals/0b/09/c6/0b09c6085a316ef479dcb744b2f396cc.jpg)
 
 
 

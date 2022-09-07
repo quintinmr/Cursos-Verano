@@ -1,11 +1,10 @@
-# Cursos de Verano
+<center><h1><b> Introducción Práctica a la Inteligencia Artificial y al Deep Learning <b><h1></center>
 
-## 1. Introducción Práctica a la Inteligencia Artificial y al Deep Learning 
 ![AI](https://i.pinimg.com/originals/0b/09/c6/0b09c6085a316ef479dcb744b2f396cc.jpg)
 
 
 
-### Objetivos
+## <span style="color:purple">**Objetivos**</span>
 
 ● Proporcionar a los asistentes una visión general de los modelos de procesamiento de datos basados en técnicas de inteligencia artificial y aprendizaje profundo (deep Learning). Para ello, en el curso se impartirán diferentes talleres teóricos y prácticos.
 
@@ -19,7 +18,7 @@
 
 ● Generar redes y oportunidades de colaboración de expertos en IA en Andalucía.
 
-###  Contenidos
+##  <span style="color:blue">**Contenidos**</span>
 
 ● **Sesión 1**: Introducción al curso. Ciencia de Datos y Deep Learning
 
@@ -52,9 +51,8 @@
 
 5. https://this-person-does-not-exist.com/es
 
-### Experiencia Personal
-Desde mi punto de vista, el curso me ha permitido adentrarme, o más bien dicho, abrir un poquito la puerta de la inteligencia artificial y el deep learning, un campo que todavía está en pañales según dicen algunos expertos. He aprendido muchismos conecptos nuevos: red neuronal, red neuronal convolucional, GAN, aprendizaje supervisado, no supervisado, por refuerzo, etc. Además, me he concienciado de lo importante que hacer un uso responsable de los datos que manejamos en nuestros proyectos. En definitiva, de lo importante que es la ética en este campo. 
-El objetivo principal por el cual me inscribí al curso es porque en un futuro no muy lejano me quiero especializar en inteligencia artificial, y quería mojarme un poco los labios y aprender unas nociones básicas. En general estoy muy satisfecho con el curso y con las competencias adquiridas. Lo recomiendo 100%. 
+## **Experiencia Personal**
+...
 
 
 
